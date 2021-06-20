@@ -6,6 +6,6 @@
 - 🔭 I’m currently working on Django,Odoo
 - 🌱 I’m currently learning React,ML
 - 💬 Ask me about Odoo,Python
-- 😄 Pronouns: Thit :heartpulse:
+- 😄 Pronouns: Thit :heartpulse: (she/her)
 - ⚡ Fun fact: I'm a Plus Size girls :girl: writing code
 
