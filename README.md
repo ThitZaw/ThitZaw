@@ -14,8 +14,7 @@ See my _pinned repositories_ below.
 - 🔭 I’m currently working on Django,Odoo,JS
 - 💬 Ask me about Odoo,Python
 - 😄 Pronouns: Thit (she/her)
-- ⚡ Fun fact: I'm a Plus Size :girl: writing code
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,flask,git,github,gmail,html,js,jquery,less,linux,mysql,pycharm,py,qt,rabbitmq,react,redis,sass,sqlite,ubuntu,vscode,windows,docker,PostgreSQL)](https://skillicons.dev)
