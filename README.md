@@ -16,3 +16,6 @@ See my _pinned repositories_ below.
 - 😄 Pronouns: Thit (she/her)
 - ⚡ Fun fact: I'm a Plus Size :girl: writing code
 
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
