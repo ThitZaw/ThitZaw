@@ -7,7 +7,7 @@
 
 <br>
 
-I'm a ✨ _web developer_ ✨ who likes to **write code**.I'm mostly working with **Python**.
+I'm a ✨ _Python Developer _ ✨ who likes to **write code**.I'm mostly working with **Python**.
 <br>
 See my _pinned repositories_ below.
 
