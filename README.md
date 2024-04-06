@@ -21,7 +21,8 @@ class ThitZaw:
 
     def show_my_skills(self):
         print(
-            "Good - Python, Odoo , ERP ,Django ,Django Rest Framework ,FastAPI , Odoo Accounting ,Sale , Purchase ,CRM , PR , Project , Timesheet,Inventory \n" +
+            "Good - Python, Odoo , ERP ,Django ,Django Rest Framework ,FastAPI \n"+
+                    "Odoo Accounting ,Sale , Purchase ,CRM , PR , Project , Timesheet,Inventory \n" +
                     "JWT, OAuth2,RestAPI ,Data Mining ,Natural Language Processing ,Text Classification\n" +
                     "MySQL, PostgreSQL, MongoDB, \n" +
                     "Pytest, Swagger,\n" +
