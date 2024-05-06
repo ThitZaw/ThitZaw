@@ -20,17 +20,17 @@ class ThitZaw:
         self.show_my_skills()
 
     def show_my_skills(self):
-        print(
-            "Good - Python, Odoo , ERP ,Django ,Django Rest Framework ,FastAPI \n"+
-                    "Odoo Accounting ,Sale , Purchase ,CRM , PR , Project , Timesheet,Inventory \n" +
-                    "JWT, OAuth2,RestAPI ,Data Mining ,Natural Language Processing ,Text Classification\n" +
-                    "MySQL, PostgreSQL, MongoDB, \n" +
-                    "Pytest, Swagger,\n" +
-                    "Git, Bitbucket, Github, SVN, Jira, Agile Scrum Methodology, \n" +
-                    "HTML, CSS, Bootstrap, Javascript\n" +
-            "Normal - Docker, Celery, rabbitMq,Redis \n" +
-            "A bit - Java, React , OWL \n"
-        )
+        my_skill = { "Good" : ["Python, Odoo , ERP ,Django ,Django Rest Framework ,FastAPI",
+                                "Odoo Accounting ,Sale , Purchase ,CRM , PR , Project , Timesheet,Inventory",
+                                "JWT, OAuth2,RestAPI ,Data Mining ,Natural Language Processing ,Text Classification",
+                                "MySQL, PostgreSQL, MongoDB",
+                                "Pytest, Swagger",
+                                "Git, Bitbucket, Github, SVN, Jira, Agile Scrum Methodology",
+                                "HTML, CSS, Bootstrap, Javascript"],
+                        "Normal" :["Docker, Celery, rabbitMq,Redis"],
+                        "A bit": ["Java, React , OWL"]
+                    }
+        print(my_skill)
 
 if __name__ == "__main__":
     ThitZaw()
